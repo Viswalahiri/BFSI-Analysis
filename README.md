@@ -16,3 +16,6 @@ Sources of Data:
 1-4: https://data.world/finance/dc-purchase-orders-2014
 
 5-9: https://data.world/finance/china-largest-companies
+
+
+Refer the 'R-Project' docx document to gain further understanding of the sequence in which these resources are to be read.
