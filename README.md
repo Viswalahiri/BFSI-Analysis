@@ -18,4 +18,4 @@ Sources of Data:
 5-9: https://data.world/finance/china-largest-companies
 
 
-Refer the 'R-Project' docx document to gain further understanding of the sequence in which these resources are to be read.
+Refer the 'R Project' docx document to gain further understanding of the sequence in which these resources are to be read.
