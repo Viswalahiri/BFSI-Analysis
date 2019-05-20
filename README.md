@@ -1,4 +1,4 @@
-# BFSI_-Analysis
+# BFSI-Analysis
 A holistic analysis on two datasets that includes the following:
 
 1. Visualizations through Excel
